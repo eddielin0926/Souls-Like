@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
         "Behaviour",
+        "Lerp",
         "Mathf",
+        "Raycast",
         "Rigidbody"
     ]
 }
